@@ -1,0 +1,90 @@
+.principal{
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bolder;
+    float: left;
+    margin-left: 600px;
+    margin-top: 20px;
+    margin-bottom: 30px;
+    background-color: rgb(190, 190, 190);
+    border-style: solid;
+    padding: 5px 8px 5px 8px;
+    border-width: 3px;
+    width: 300px;
+    
+}
+
+.nome{
+    font-family: 'Courier New', Courier, monospace;
+    background-color: rgb(80 187 174);
+   
+}
+
+.fundoClaro{
+    background-color: rgba(0, 213, 255, 0.121);
+}
+
+.estilo01{
+    background-color: rgba(120, 120, 120, 0.5);
+    color: rgb(0, 0, 0);
+    position: sticky;
+    margin: auto;
+    margin-top: 30PX;
+    margin-left: 150px;
+    margin-right: 150px;
+    margin-bottom: 50px;
+    height: 100px;
+}
+
+.fundo01{
+    margin-left: 150px;
+    margin-top: 50px;
+}
+.fundo{
+    margin-left: 300px;
+    margin-top: 150px;
+    width: 450px;
+}
+.fundo02{
+    margin-left: 250px;
+    margin-top: 50px;
+}
+
+.estilo07{
+    background-color: rgba(120, 120, 120, 0.5);
+    color: rgb(0, 0, 0);
+    position: sticky;
+    margin: auto;
+    margin-top: 30PX;
+    margin-left: 150px;
+    margin-right: 150px;
+    margin-bottom: 50px;
+    height: 130px;
+}
+
+.estilo08{
+    background-color: rgba(120, 120, 120, 0.5);
+    color: rgb(0, 0, 0);
+    position: sticky;
+    margin: auto;
+    margin-top: 30PX;
+    margin-left: 150px;
+    margin-right: 150px;
+    margin-bottom: 50px;
+    height: 150px;
+}
+.margem{
+    margin-left: 150px;
+}
+.margem2{
+    margin-left: 730px;
+}
+.margem3{
+    margin-left: 580px;
+}
+.margem4{
+    margin-left: 400px;
+}
+
+.fundoPrincipal{
+    background-color: rgba(140, 0, 255, 0.329);
+}
